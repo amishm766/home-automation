@@ -108,7 +108,7 @@ pycrypto==2.6.1
 PyDispatcher==2.0.5
 pyfingerprint==1.5
 pygmaps-enhanced==0.2.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 PyHamcrest==1.9.0
 pyinotify==0.9.6
