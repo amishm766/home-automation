@@ -83,7 +83,7 @@ notebook==5.7.2
 numexpr==2.6.1
 numpy==1.12.1
 oauthlib==2.0.1
-opencv-python==3.4.3.18
+opencv-python==3.4.7.28
 paho-mqtt==1.4.0
 pandas==0.24.0
 pandocfilters==1.4.2
