@@ -138,7 +138,7 @@ roman==2.0.0
 RPi.GPIO==0.6.5
 scikit-learn==0.20.2
 scipy==0.18.1
-Scrapy==1.5.2
+Scrapy==1.8.2
 scrapy-splash==0.7.2
 scrollphat==0.0.7
 seaborn==0.7.1
