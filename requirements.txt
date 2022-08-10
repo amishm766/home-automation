@@ -76,7 +76,7 @@ mote==0.0.4
 motephat==0.0.2
 mypy==0.470
 nanpy==0.9.6
-nbconvert==5.4.0
+nbconvert==6.3.0
 nbformat==4.4.0
 nexmo==2.3.0
 notebook==5.7.2
