@@ -167,7 +167,7 @@ touchphat==0.0.1
 tqdm==4.29.1
 traitlets==4.3.1
 twilio==6.19.1
-Twisted==18.9.0
+Twisted==22.10.0
 twython==3.4.0
 typed-ast==0.6.3
 ufw==0.35
