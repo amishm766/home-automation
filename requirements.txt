@@ -34,7 +34,7 @@ entrypoints==0.2.3
 envirophat==1.0.0
 ExplorerHAT==0.4.2
 file-magic==0.3.0
-Flask==0.10.1
+Flask==2.3.2
 Flask-Admin==1.4.2
 flask-heroku==0.1.9
 Flask-SQLAlchemy==2.1
